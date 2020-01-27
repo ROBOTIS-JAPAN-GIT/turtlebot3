@@ -7,6 +7,10 @@
     <material>Gazebo/DarkGrey</material>
   </gazebo>
 
+  <gazebo reference="table_link">
+    <material>Gazebo/DarkGrey</material>
+  </gazebo>
+
   <gazebo reference="wheel_left_link">
     <mu1>0.1</mu1>
     <mu2>0.1</mu2>
